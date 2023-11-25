@@ -1,2 +1,2 @@
-# SCG 
+# Predicción de enfermedades Valvulares del corazón en base a SCG.
  
