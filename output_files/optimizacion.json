@@ -1,0 +1,1 @@
+{"numero_ensayos_terminados": 5, "mejores_parametros": {"lr": 5.722918589676395e-05, "dense_units": 64, "kernel_size1": 10, "kernel_size2": 3, "kernel_size3": 1, "filters1": 64, "filters2": 64, "filters3": 128}, "mejor_valor_recall": 0.8789968490600586}
